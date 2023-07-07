@@ -13,6 +13,7 @@ config = {
     "password": "popcorn",
     "host": "localhost",
     "database": "movies",
+    "port": "3306",
     "raise_on_warnings": True
     }
 
